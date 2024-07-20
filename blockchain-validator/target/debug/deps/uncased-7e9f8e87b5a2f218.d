@@ -1,0 +1,10 @@
+/home/amirhosein/develop/projects/cryptoDetective/blockchain-specifier/validaor-address/blockchain-validator/target/debug/deps/libuncased-7e9f8e87b5a2f218.rmeta: /home/amirhosein/.cargo/registry/src/index.crates.io-6f17d22bba15001f/uncased-0.9.10/src/lib.rs /home/amirhosein/.cargo/registry/src/index.crates.io-6f17d22bba15001f/uncased-0.9.10/src/owned.rs /home/amirhosein/.cargo/registry/src/index.crates.io-6f17d22bba15001f/uncased-0.9.10/src/borrowed.rs /home/amirhosein/.cargo/registry/src/index.crates.io-6f17d22bba15001f/uncased-0.9.10/src/as_uncased.rs
+
+/home/amirhosein/develop/projects/cryptoDetective/blockchain-specifier/validaor-address/blockchain-validator/target/debug/deps/libuncased-7e9f8e87b5a2f218.rlib: /home/amirhosein/.cargo/registry/src/index.crates.io-6f17d22bba15001f/uncased-0.9.10/src/lib.rs /home/amirhosein/.cargo/registry/src/index.crates.io-6f17d22bba15001f/uncased-0.9.10/src/owned.rs /home/amirhosein/.cargo/registry/src/index.crates.io-6f17d22bba15001f/uncased-0.9.10/src/borrowed.rs /home/amirhosein/.cargo/registry/src/index.crates.io-6f17d22bba15001f/uncased-0.9.10/src/as_uncased.rs
+
+/home/amirhosein/develop/projects/cryptoDetective/blockchain-specifier/validaor-address/blockchain-validator/target/debug/deps/uncased-7e9f8e87b5a2f218.d: /home/amirhosein/.cargo/registry/src/index.crates.io-6f17d22bba15001f/uncased-0.9.10/src/lib.rs /home/amirhosein/.cargo/registry/src/index.crates.io-6f17d22bba15001f/uncased-0.9.10/src/owned.rs /home/amirhosein/.cargo/registry/src/index.crates.io-6f17d22bba15001f/uncased-0.9.10/src/borrowed.rs /home/amirhosein/.cargo/registry/src/index.crates.io-6f17d22bba15001f/uncased-0.9.10/src/as_uncased.rs
+
+/home/amirhosein/.cargo/registry/src/index.crates.io-6f17d22bba15001f/uncased-0.9.10/src/lib.rs:
+/home/amirhosein/.cargo/registry/src/index.crates.io-6f17d22bba15001f/uncased-0.9.10/src/owned.rs:
+/home/amirhosein/.cargo/registry/src/index.crates.io-6f17d22bba15001f/uncased-0.9.10/src/borrowed.rs:
+/home/amirhosein/.cargo/registry/src/index.crates.io-6f17d22bba15001f/uncased-0.9.10/src/as_uncased.rs:

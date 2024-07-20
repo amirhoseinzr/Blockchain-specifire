@@ -1,0 +1,10 @@
+/home/amirhosein/develop/projects/cryptoDetective/blockchain-specifier/validaor-address/blockchain-validator/target/debug/deps/liblog-64a5af98faa4b5f7.rmeta: /home/amirhosein/.cargo/registry/src/index.crates.io-6f17d22bba15001f/log-0.4.22/src/lib.rs /home/amirhosein/.cargo/registry/src/index.crates.io-6f17d22bba15001f/log-0.4.22/src/macros.rs /home/amirhosein/.cargo/registry/src/index.crates.io-6f17d22bba15001f/log-0.4.22/src/serde.rs /home/amirhosein/.cargo/registry/src/index.crates.io-6f17d22bba15001f/log-0.4.22/src/__private_api.rs
+
+/home/amirhosein/develop/projects/cryptoDetective/blockchain-specifier/validaor-address/blockchain-validator/target/debug/deps/liblog-64a5af98faa4b5f7.rlib: /home/amirhosein/.cargo/registry/src/index.crates.io-6f17d22bba15001f/log-0.4.22/src/lib.rs /home/amirhosein/.cargo/registry/src/index.crates.io-6f17d22bba15001f/log-0.4.22/src/macros.rs /home/amirhosein/.cargo/registry/src/index.crates.io-6f17d22bba15001f/log-0.4.22/src/serde.rs /home/amirhosein/.cargo/registry/src/index.crates.io-6f17d22bba15001f/log-0.4.22/src/__private_api.rs
+
+/home/amirhosein/develop/projects/cryptoDetective/blockchain-specifier/validaor-address/blockchain-validator/target/debug/deps/log-64a5af98faa4b5f7.d: /home/amirhosein/.cargo/registry/src/index.crates.io-6f17d22bba15001f/log-0.4.22/src/lib.rs /home/amirhosein/.cargo/registry/src/index.crates.io-6f17d22bba15001f/log-0.4.22/src/macros.rs /home/amirhosein/.cargo/registry/src/index.crates.io-6f17d22bba15001f/log-0.4.22/src/serde.rs /home/amirhosein/.cargo/registry/src/index.crates.io-6f17d22bba15001f/log-0.4.22/src/__private_api.rs
+
+/home/amirhosein/.cargo/registry/src/index.crates.io-6f17d22bba15001f/log-0.4.22/src/lib.rs:
+/home/amirhosein/.cargo/registry/src/index.crates.io-6f17d22bba15001f/log-0.4.22/src/macros.rs:
+/home/amirhosein/.cargo/registry/src/index.crates.io-6f17d22bba15001f/log-0.4.22/src/serde.rs:
+/home/amirhosein/.cargo/registry/src/index.crates.io-6f17d22bba15001f/log-0.4.22/src/__private_api.rs:
